@@ -8,7 +8,7 @@
           href="https://vuejs.org"
           target="_blank"
         >
-          Core Docs
+          Core Docs2
         </a>
       </li>
       <li>
@@ -16,7 +16,7 @@
           href="https://forum.vuejs.org"
           target="_blank"
         >
-          Forum
+          Forum2
         </a>
       </li>
       <li>
@@ -24,7 +24,7 @@
           href="https://chat.vuejs.org"
           target="_blank"
         >
-          Community Chat
+          Community Chat2
         </a>
       </li>
       <li>
@@ -32,7 +32,7 @@
           href="https://twitter.com/vuejs"
           target="_blank"
         >
-          Twitter
+          Twitter2
         </a>
       </li>
       <br>
