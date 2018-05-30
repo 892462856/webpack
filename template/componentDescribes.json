@@ -1,0 +1,26 @@
+{
+    "Entry":[
+        {
+        "ServiceId" : "",
+        "Name" : "",
+        "ToolTip" : "",
+        "LargeLogo" : "",
+        "SmallLogo" : "",
+        "Tag" : ["",""],
+        "Description" : "",
+        "Version" : "",
+        "ComponentId" : "",
+        "Docked" : "WorkBench/Placeholder/LeftPopup/RightPopup"
+        }
+    ],
+    "Components" : [
+        {
+        "CanPin" : false,
+        "Title" :"",
+        "SubTitle" : "",
+        "Logo" : "",
+        "ID" : "",
+        "Version" : ""
+        }
+    ]
+}

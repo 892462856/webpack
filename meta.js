@@ -54,7 +54,8 @@ module.exports = {
     build: {
       when: 'isNotTest',
       type: 'list',
-      message: 'Vue build',
+      message: 'Vue build. confirm key select standalone',
+      default:"standalone",
       choices: [
         {
           name: 'Runtime + Compiler: recommended for most users',
@@ -82,7 +83,8 @@ module.exports = {
     lintConfig: {
       when: 'isNotTest && lint',
       type: 'list',
-      message: 'Pick an ESLint preset',
+      message: 'Pick an ESLint preset. confirm key select airbnb',
+      default:'airbnb',
       choices: [
         {
           name: 'Standard (https://github.com/standard/standard)',
@@ -109,7 +111,8 @@ module.exports = {
     runner: {
       when: 'isNotTest && unit',
       type: 'list',
-      message: 'Pick a test runner',
+      message: 'Pick a test runner. confirm key select karma',
+      default:'karma',
       choices: [
         {
           name: 'Jest',

@@ -1,4 +1,6 @@
-import Vue from 'vue'
+//import Vue from 'vue'
+
+/* 
 import HelloWorld from '@/components/HelloWorld'
 
 describe('HelloWorld.vue', () => {
@@ -9,3 +11,4 @@ describe('HelloWorld.vue', () => {
       {{#if_eq runner "karma"}}.to.equal('Welcome to Your Vue.js App'){{/if_eq}}{{#if_eq runner "jest"}}.toEqual('Welcome to Your Vue.js App'){{/if_eq}}
   })
 })
+ */
